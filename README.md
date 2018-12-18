@@ -17,7 +17,7 @@ PC上のdlibでVTuberの表情認識を行い，表情データをHoloLensに送
     + HoloLensModule [https://github.com/akihiro0105/HoloLensModule](https://github.com/akihiro0105/HoloLensModule)
 
 # How to use
-[ブログのurl](https://link)
+[「Tokyo HoloLens ミートアップ vol.11　忘年会スペシャル！」で展示，LTしました](http://akihiro-document.azurewebsites.net/post/event/hololensmeetup20181215/)
 
 # Project
 - ReceiveLandmark
