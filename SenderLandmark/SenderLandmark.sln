@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SenderLandmark", "SenderLandmark\SenderLandmark.vcxproj", "{9C10D184-CF34-4D25-87B3-C0F855DF7BCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C10D184-CF34-4D25-87B3-C0F855DF7BCA}.Debug|x64.ActiveCfg = Debug|x64
+		{9C10D184-CF34-4D25-87B3-C0F855DF7BCA}.Debug|x64.Build.0 = Debug|x64
+		{9C10D184-CF34-4D25-87B3-C0F855DF7BCA}.Debug|x86.ActiveCfg = Debug|Win32
+		{9C10D184-CF34-4D25-87B3-C0F855DF7BCA}.Debug|x86.Build.0 = Debug|Win32
+		{9C10D184-CF34-4D25-87B3-C0F855DF7BCA}.Release|x64.ActiveCfg = Release|x64
+		{9C10D184-CF34-4D25-87B3-C0F855DF7BCA}.Release|x64.Build.0 = Release|x64
+		{9C10D184-CF34-4D25-87B3-C0F855DF7BCA}.Release|x86.ActiveCfg = Release|Win32
+		{9C10D184-CF34-4D25-87B3-C0F855DF7BCA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DB11A0C-C06E-4155-BB41-9A509FC2C10C}
+	EndGlobalSection
+EndGlobal
